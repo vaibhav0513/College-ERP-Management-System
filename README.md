@@ -58,3 +58,26 @@ follows:
 1. Apply for leave.
 2. Remaining leaves.
 3. Status of leave.
+
+<h2>Selection Language</h2>
+1. HTML, CSS & JAVASCRIPT
+2. PHP
+3. MYSQL
+
+We selected PHP language for our project, because PHP is a server scripting 
+language. Php helps to connect backend database to our frontend page. Which help 
+us to fetch data from user.
+          HTML - HTML is used to design static webpage.
+          CSS - CSS helps to make the webpage content more effective and attractive.
+          JavaScript - JavaScript is used to design an interactive website.
+          MYSQL – MySql is used to perform various operations on data stored in database.
+
+<h2>Hardware and Software requirement</h2>
+           <h4>Hardware requirement</h4>
+               1. Intel i3 processor or above.
+               2. Minimum 4 GB ram.
+               3. Minimum 1 GB storage.
+            <h4>Software Requirement</h4>
+               1. Xampp v3.3.
+               2. Any Ide e.g. (Vscode, Sublime Text 3)
+               3. Operating System: windows or mac
