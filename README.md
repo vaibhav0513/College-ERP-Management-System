@@ -19,3 +19,40 @@ so that complex functions can be handled smoothly by any technical or nontechni
 organization is going through right level of information and details of future goals. 
 Also, for those busy executive who are always on the go are able of access our 
 system with remote access feature
+
+<h2>Design and Implementation</h2>h2>
+The Proposed of college ERP Management System has several benefits. It has 
+Login details for all the processes connected to that college. In addition, it analyses 
+the captured data in different modules within the System. Such as Modules are as
+follows:
+ADMISSION SECTION
+ Students admission form.
+ Students documents collection.
+ Student transfer.
+
+LECTURE MANAGEMENTS
+ Lecture plan.
+ Display online lecture.
+ Attendance.
+ Mid-term and end-term exam conduction.
+ Defaulter list.
+ Result generation.
+
+FINANCE MANAGEMENTS
+ Fees payments.
+ Balance fees.
+ Update fee’s structure.
+
+EXPERT TALKS
+ Guest event.
+ Attendance of events.
+ Feedback of students, parent and faculty.
+
+FACULTY DETAILS
+ Faculty profile.
+ Faculty dashboard.
+
+LEAVE MANAGEMENTS
+ Apply for leave.
+ Remaining leaves.
+ Status of leave.
